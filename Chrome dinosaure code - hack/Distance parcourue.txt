@@ -1,0 +1,2 @@
+Runner.instance_.distanceRan = 1000000000000000 / 
+Runner.instance_.distanceMeter.config.COEFFICIENT
